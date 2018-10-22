@@ -5,7 +5,7 @@ class Menu {
             "   Chop",
             "   Steak",
             "   Stew",
-            "   Porrige",
+            "   Porridge",
             "   Soup",
             "   Mashed Potatoes",
             "   French Fries",
@@ -13,7 +13,7 @@ class Menu {
             "   Tea",
             "   Mojito",
             "   Lemonade",
-            "   Cofe"
+            "   Cafe"
     };
 
 }
