@@ -6,7 +6,6 @@ public class Main {
     }
 
 
-
     private static void printMenu() {
         System.out.println("----------Menu----------");
         for (int i = 0; i < Menu.Menu.length; i++) {
