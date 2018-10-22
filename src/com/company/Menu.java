@@ -1,7 +1,7 @@
 package com.company;
 
-public class Menu {
-    public static String[] Menu = {
+class Menu {
+    static final String[] Menu = {
             "   Chop",
             "   Steak",
             "   Stew",
